@@ -105,10 +105,9 @@ These results show that the Random Forest Classifier performed strongly and cons
 ```
 📦 ML-Projects-Rainfall-Prediction
 │
-├── Rainfall_Prediction.ipynb # Main Jupyter Notebook
-├── rainfall_dataset.csv # Dataset used for training and testing
-├── requirements.txt # Required dependencies
-└── README.md # Project documentation
+├── Rainfall_Prediction.ipynb                                                      # Main Jupyter Notebook Model implementation
+├── Rainfall.csv                                                                   # Dataset used for training and testing
+└── README.md                                                                      # Project documentation
 
 ```
 ---
